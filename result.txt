@@ -1,0 +1,5 @@
+bert_uncased fine tune on IMDB  Loss:0.1287, Test Accuracy: 0.8964 
+bert_uncased lp on IMDB Train Loss: 0.6489, Test Accuracy: 0.7729
+
+bert_uncased fine tune on Amazon Train Loss: 0.3256, Val Accuracy: 0.8376
+bert_uncased lp tune on Amazon Train Loss: 0.9991, Val Accuracy: 0.6799
